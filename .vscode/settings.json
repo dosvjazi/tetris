@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "cli.h": "c",
-        "locale.h": "c",
-        "time.h": "c",
-        "string.h": "c",
-        "tetris.h": "c"
-    }
-}
